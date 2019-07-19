@@ -16,6 +16,9 @@ output.txt에 결과가 쓰여집니다.
 ## Dictionary
 세종말뭉치 기반으로 만들었습니다.
 
+Download Link
+https://drive.google.com/drive/folders/1EtB1tSkA_UiF_0f2mZfBeXvK7Js_kJJD?usp=sharing
+
 ## Cite
 
 ```
