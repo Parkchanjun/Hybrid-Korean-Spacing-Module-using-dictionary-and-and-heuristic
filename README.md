@@ -19,6 +19,12 @@ output.txt에 결과가 쓰여집니다.
 Download Link
 https://drive.google.com/drive/folders/1EtB1tSkA_UiF_0f2mZfBeXvK7Js_kJJD?usp=sharing
 
+## Test
+test.py를 통하여 precision,recall,f1-score를 계산할 수 있습니다.
+- pip3 install statistics
+- ref와 pred 디렉토리를 만들어주세요.
+- ref의 정답을 pred에 띄어쓰기 결과를 각각 넣어주세요. (.txt)
+
 ## Cite
 
 ```
